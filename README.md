@@ -2,5 +2,5 @@
 
 #### Data from UCI Machine Learning Database Archives
 ```
-[ref]: http://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.data
+[Link For Data](http://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.data)
 ```
